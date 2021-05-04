@@ -14,6 +14,7 @@ Creating a class for controlling PWM controller, LCP24-100Q
 ### Prerequisites
 - python3
 - `pip install pyserial`
+- `pip install pyqt5` for demo app
 
 ### Installing
 - `git clone https://github.com/sina-Kim/LCP24-100Q.git`
